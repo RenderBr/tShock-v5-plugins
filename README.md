@@ -63,7 +63,7 @@ Allows admins to gain stealthing abilties, such as becoming completely invisible
 ### [History.dll](https://github.com/RenderBr/History)
 Logs tile modification events on your server, offering administrators to punish and fix grief/unwanted world events more easily.
 
-### [House Regions.dll](https://github.com/RenderBr/History)
+### [House Regions.dll](https://github.com/Maxthegreat99/HouseRegions-Plugin)
 Allows users to define and manage specific regions for player housing, maintaining control over housing areas.
 
 ### [InfiniteChestsV3.dll](https://github.com/RenderBr/InfiniteChestsV3)
