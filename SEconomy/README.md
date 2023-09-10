@@ -1,4 +1,4 @@
-# SECONOMY
+# SEconomy
 You can find the permissions, source codes and credits for SEconomy [here](https://github.com/Maxthegreat99/SEconomy).
 
 # Ranking System JS
