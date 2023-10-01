@@ -78,7 +78,7 @@ Allows you to link chat messages across multiple servers
 ### [NPCBlocker.dll](https://github.com/Maxthegreat99/NPCBlocker2)
 Allows admins to block certain NPCs from spawning in the world.
 
-### [OnlineAnnounceV2.dll](https://github.com/RenderBr/OnlineAnnounceV2)
+### [OnlineAnnounceV2.dll](https://github.com/Maxthegreat99/OnlineAnnounceV2)
 Announces player logins and logouts to keep the server community informed and engaged.
 
 ### [Permabuffs V2.dll](https://github.com/Maxthegreat99/PermabuffsV2)
