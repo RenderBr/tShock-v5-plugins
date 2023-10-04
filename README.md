@@ -21,6 +21,9 @@ Trys to cleans the server of its dropped items at a configured interval.
 ### [AntiSpam.dll](https://github.com/RenderBr/AntiSpam)
 Prevents unwanted spam messages in your server's chat by effectively controlling excessive and repetitive messages.
 
+### [AntiVPN.dll](https://github.com/Maxthegreat99/AntiVPN-TShock)
+A simple anti-vpn plugin for TShock powered by iphub.info.
+
 ### [ChangeName.dll](https://github.com/RenderBr/ChangeName)
 Logs and manages player name changes, aiding in keeping track of player identities.
 
