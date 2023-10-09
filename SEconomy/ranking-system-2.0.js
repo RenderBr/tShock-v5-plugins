@@ -2,8 +2,8 @@
 
     Ranking System v2.0, by Wolfje (Tyler W.), 2013.
 
-    This is a ranking script for the AliasCmd plugin in Javascript.  Install it by putting it in your Tshock\SEconomy" directory and starting the Terraria server.
-    If the server is already running AliasCmd just type "/aliascmd reload" in the console to cause the script to load.
+    This is a ranking script for the AliasCmd plugin in Javascript.  Install it by putting it in your "serverscripts" directory and starting the Terraria server.
+    If the server is already running AliasCmd just type "/jist reload" in the console to cause the script to load.
 
     Released under Wolfje's Don't-be-a-dick license.  You didn't write this, I did, so if you modify it don't claim the work as yours; it isn't.
 
