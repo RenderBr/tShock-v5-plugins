@@ -99,6 +99,9 @@ Allows players to toggle PvP (Player versus Player) mode on and off via a comman
 ### [Protector.dll](https://github.com/Maxthegreat99/Protector-Plugin)
 Allows players to protects single blocks and objects from being changed.
 
+### [Pinger.dll](https://github.com/Maxthegreat99/Pinger)
+A plugin conceived for Hardcore Challenge minigames that pings on the map players once a number of them are left alive.
+
 ### [Quotes.dll](https://github.com/RenderBr/Quotes)
 Allows players to read/save quotes.
 
