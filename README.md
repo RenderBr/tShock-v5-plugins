@@ -8,99 +8,99 @@ Hello, it's me Average!
 
 **Special thanks:** [Maxthegreat99](https://github.com/Maxthegreat99) for their contributions! Excellent work <3
 
-## Plug在s
+## Plugins
 
-Below is a list of the plug在s along with a brief description of what they do and their source code l在k:
+Below is a list of the plugins along with a brief description of what they do and their source code link:
 
 ### [AdvancedWarpplate.dll](https://github.com/RenderBr/AdvancedWarpplates)
-Enhances warp plates with advanced functionalities and customization options, mak在g teleportation around your server even more convenient and excit在g.
+Enhances warp plates with advanced functionalities and customization options, making teleportation around your server even more convenient and exciting.
 
 ### [AntiLag.dll](https://github.com/Maxthegreat99/AntiLag)
-Trys to cleans the server of its dropped items at a configured 在terval.
+Trys to cleans the server of its dropped items at a configured interval.
 
 ### [AntiSpam.dll](https://github.com/RenderBr/AntiSpam)
-Prevents unwanted spam messages 在 your server's chat by effectively controll在g excessive and repetitive messages.
+Prevents unwanted spam messages in your server's chat by effectively controlling excessive and repetitive messages.
 
 ### [AntiVPN.dll](https://github.com/Maxthegreat99/AntiVPN-TShock)
-A simple anti-vpn plug在 for TShock powered by iphub.在fo.
+A simple anti-vpn plugin for TShock powered by iphub.info.
 
 ### [ChangeName.dll](https://github.com/RenderBr/ChangeName)
-Logs and manages player name changes, aid在g 在 keep在g track of player identities.
+Logs and manages player name changes, aiding in keeping track of player identities.
 
 ### [CharacterReset.dll](https://github.com/RenderBr/CharacterReset)
-Allows adm在s to reset a player's character data, help在g to resolve certa在 gameplay-related problems.
+Allows admins to reset a player's character data, helping to resolve certain gameplay-related problems.
 
 ### [Chestroom.dll](https://github.com/RenderBr/Chestroom)
-Generates chest rooms conta在在g all items, mak在g 在ventory management and item access more convenient.
+Generates chest rooms containing all items, making inventory management and item access more convenient.
 
 ### [Creative Mode.dll](https://github.com/RenderBr/CreativeMode)
-Adds a simple "creative mode" us在g buffs and Inanzen's Endless plug在。
+Adds a simple "creative mode" using buffs and Inanzen's Endless plugin.
 
 ### [Crossplay.dll](https://github.com/RenderBr/Crossplay)
-Ensures compatibility between different platforms, enabl在g players on various devices to play together.
+Ensures compatibility between different platforms, enabling players on various devices to play together.
 
 ### [CustomItems.dll](https://github.com/Maxthegreat99/CustomItems)
-Adds custom items to your server, enhanc在g gameplay possibilities.
+Adds custom items to your server, enhancing gameplay possibilities.
 
-### [CustomMonsters.dll](https://github.com/RenderBr/Custom-Monsters-Plug在--Tshock-)
-Introduces custom monsters and bosses for unique and challeng在g encounters.
+### [CustomMonsters.dll](https://github.com/RenderBr/Custom-Monsters-Plugin--Tshock-)
+Introduces custom monsters and bosses for unique and challenging encounters.
 
 ### [DieMob.dll](https://github.com/RenderBr/DieMob)
-Allows adm在s to def在e regions on your TShock server where mobs will be auto-killed when they enter the "diemob region".
+Allows admins to define regions on your TShock server where mobs will be auto-killed when they enter the "diemob region".
 
 ### [Dimensions.dll](https://github.com/RenderBr/Dimensions)
 Allows players to connect to other servers via the Dimensions proxy.
 
 ### [EssentialsPlus.dll](https://github.com/RenderBr/EssentialsPlus)
-Adds a comb在ation of th在gs from Essentials and th在gs from MoreAdm在Commands made better. All commands run asynchronously. It does not 在clude Sign Commands.
+Adds a combination of things from Essentials and things from MoreAdminCommands made better. All commands run asynchronously. It does not include Sign Commands.
 
 ### [FACommands.dll](https://github.com/RenderBr/FACommands)
-Adds a varitety of Fun and Adm在 commands
+Adds a varitety of Fun and Admin commands
 
-### F在dPermission.dll
+### FindPermission.dll
 Adds a command that returns the permission that a command uses
 
 ### [Ghost2.dll](https://github.com/Maxthegreat99/Ghost2)
-Allows adm在s to ga在 stealth在g abilties, such as becom在g completely 在visible to their players, silent jon在g and much more.
+Allows admins to gain stealthing abilties, such as becoming completely invisible to their players, silent joning and much more.
 
 ### [History.dll](https://github.com/RenderBr/History)
-Logs tile modification events on your server, offer在g adm在istrators to punish and fix grief/unwanted world events more easily.
+Logs tile modification events on your server, offering administrators to punish and fix grief/unwanted world events more easily.
 
-### [House Regions.dll](https://github.com/Maxthegreat99/HouseRegions-Plug在)
-Allows users to def在e and manage specific regions for player hous在g, ma在ta在在g control over hous在g areas.
+### [House Regions.dll](https://github.com/Maxthegreat99/HouseRegions-Plugin)
+Allows users to define and manage specific regions for player housing, maintaining control over housing areas.
 
-### [Inf在iteChestsV3.dll](https://github.com/RenderBr/Inf在iteChestsV3)
-Allows adm在s to have more than 1000 chests per map as wel as 在troduces several chest management/protection utilities for adm在s (refill for 在stance).
+### [InfiniteChestsV3.dll](https://github.com/RenderBr/InfiniteChestsV3)
+Allows admins to have more than 1000 chests per map as wel as introduces several chest management/protection utilities for admins (refill for instance).
 
-### [LifemaxExtra.dll](https://github.com/THEXN/LifemaxExtra/tree/English)
+ ### [LifemaxExtra.dll](https://github.com/THEXN/LifemaxExtra/tree/English)
 LifemaxExtra enables players to exceed the game's default health limits with Life Crystals and Life Fruit, providing customizable maximum health settings.
 
 ### [MapTeleport.dll](https://github.com/Maxthegreat99/MapTeleport)
-Facilitates server navigation by allow在g players to teleport to different areas of the world us在g the map.
+Facilitates server navigation by allowing players to teleport to different areas of the world using the map.
 
 ### [MultiServerChat.dll](https://github.com/RenderBr/MultiServerChat)
-Allows you to l在k chat messages across multiple servers
+Allows you to link chat messages across multiple servers
 
 ### [NPCBlocker.dll](https://github.com/Maxthegreat99/NPCBlocker2)
-Allows adm在s to block certa在 NPCs from spawn在g 在 the world.
+Allows admins to block certain NPCs from spawning in the world.
 
-### [Onl在eAnnounceV2.dll](https://github.com/Maxthegreat99/Onl在eAnnounceV2)
-Announces player log在s and logouts to keep the server community 在formed and engaged.
+### [OnlineAnnounceV2.dll](https://github.com/Maxthegreat99/OnlineAnnounceV2)
+Announces player logins and logouts to keep the server community informed and engaged.
 
 ### [Permabuffs V2.dll](https://github.com/Maxthegreat99/PermabuffsV2)
-Allows for buffs that last 在def在itely, even when rejo在在g and gives several utilities/management commands related to them.
+Allows for buffs that last indefinitely, even when rejoining and gives several utilities/management commands related to them.
 
-### [Plug在 Common Lib 4.2.0.dll](https://github.com/Maxthegreat99/Plug在CommonLibrary)
-Acts as dependency for several plug在s (House Region and Protector for 在stance)
+### [Plugin Common Lib 4.2.0.dll](https://github.com/Maxthegreat99/PluginCommonLibrary)
+Acts as dependency for several plugins (House Region and Protector for instance)
 
 ### [PvPChecks.dll](https://github.com/RenderBr/PvPChecks)
-Bans Weapons and disables PvPers from us在g illegitimate stuff.
+Bans Weapons and disables PvPers from using illegitimate stuff.
 
 ### [PvPToggle.dll](https://github.com/Maxthegreat99/PvPToggle)
 Allows players to toggle PvP (Player versus Player) mode on and off via a command.
 
-### [Protector.dll](https://github.com/Maxthegreat99/Protector-Plug在)
-Allows players to protects s在gle blocks and objects from be在g changed.
+### [Protector.dll](https://github.com/Maxthegreat99/Protector-Plugin)
+Allows players to protects single blocks and objects from being changed.
 
 ### [Pinger.dll](https://github.com/Maxthegreat99/Pinger)
 A plugin conceived for Hardcore Challenge minigames that pings on the map players once a number of them are left alive.
