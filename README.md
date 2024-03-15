@@ -72,6 +72,9 @@ Allows users to define and manage specific regions for player housing, maintaini
 ### [InfiniteChestsV3.dll](https://github.com/RenderBr/InfiniteChestsV3)
 Allows admins to have more than 1000 chests per map as wel as introduces several chest management/protection utilities for admins (refill for instance).
 
+ ### [LifemaxExtra.dll](https://github.com/THEXN/LifemaxExtra/tree/English)
+LifemaxExtra enables players to exceed the game's default health limits with Life Crystals and Life Fruit, providing customizable maximum health settings.
+
 ### [MapTeleport.dll](https://github.com/Maxthegreat99/MapTeleport)
 Facilitates server navigation by allowing players to teleport to different areas of the world using the map.
 
