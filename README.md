@@ -6,7 +6,7 @@ Hello, it's me Average!
 
 **IMPORTANT NOTE:** For those of you who are suspicious, you can view the source of EVERY PLUGIN listed here on this Github profile (RenderBr). If you want to find the source of a specific plugin, search for my repo! Most plugins here are simply updated for TShock V5, however some have custom modifications. Enjoy and happy TShocking :)
 
-**Special thanks:** [Maxthegreat99](https://github.com/Maxthegreat99) for their contributions! Excellent work <3
+**Special thanks:** [Maxthegreat99](https://github.com/Maxthegreat99) & [THEXN](https://github.com/THEXN) for their contributions! Excellent work <3
 
 ## Plugins
 
