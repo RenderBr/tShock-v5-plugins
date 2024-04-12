@@ -1,12 +1,12 @@
 # tShock-v5-plugins
 Hello, it's me Average!
 
-- Since I have updated SO MANY plugins, the wrong versions of some plugins may be in here by accident! If a plugin does not work: please notify me on Discord: @rageave
+- Since I have updated SO MANY plugins, the wrong versions of some plugins may be in here by accident! If a plugin does not work: please notify me on this Discord server: https://discord.gg/Mj3SgctWhW
 - Please feel free to add pull requests with your own plugins!
 
-**IMPORTANT NOTE:** For those of you who are suspicious, you can view the source of EVERY PLUGIN listed here on this Github profile (RenderBr). If you want to find the source of a specific plugin, search for my repo! Most plugins here are simply updated for TShock V5, however some have custom modifications. Enjoy and happy TShocking :)
+**IMPORTANT NOTE:** For those of you who are suspicious, you can view the source of most if not all plugins listed here on this README file! Enjoy and happy TShocking :)
 
-**Special thanks:** [Maxthegreat99](https://github.com/Maxthegreat99) & [THEXN](https://github.com/THEXN) for their contributions! Excellent work <3
+**Contributions:** Thank you to [Soof4](https://github.com/Soof4), [THEXN](https://github.com/THEXN) & [Maxthegreat99](https://github.com/Maxthegreat99) for their contributions! Their work is exelent <3
 
 ## Plugins
 
