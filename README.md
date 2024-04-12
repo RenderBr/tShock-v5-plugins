@@ -72,6 +72,9 @@ Allows users to define and manage specific regions for player housing, maintaini
 ### [InfiniteChestsV3.dll](https://github.com/RenderBr/InfiniteChestsV3)
 Allows admins to have more than 1000 chests per map as wel as introduces several chest management/protection utilities for admins (refill for instance).
 
+### [journeyUnlock.dll](https://github.com/Maxthegreat99/journeyUnlock)
+Adds commands to unlock every/specific items for your journey characters.
+
  ### [LifemaxExtra.dll](https://github.com/THEXN/LifemaxExtra/tree/English)
 LifemaxExtra enables players to exceed the game's default health limits with Life Crystals and Life Fruit, providing customizable maximum health settings.
 
@@ -167,9 +170,6 @@ Adds a few extra commands for server admins.
 
 ### [ZHIPlayerManager.dll](https://github.com/Maxthegreat99/ZHIPlayerManager)
 Adds extensive management/player modification commands.
-
-### [journeyUnlock.dll](https://github.com/Maxthegreat99/journeyUnlock)
-Adds commands to unlock every/specific items for your journey characters.
 
 ## Contributing
 
