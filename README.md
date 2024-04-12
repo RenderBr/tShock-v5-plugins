@@ -12,6 +12,9 @@ Hello, it's me Average!
 
 Below is a list of the plugins along with a brief description of what they do and their source code link:
 
+### [Abilities](https://github.com/Soof4/Abilities)
+This is a dependency that adds various abilities for other plugins to use.
+
 ### [AdvancedWarpplate.dll](https://github.com/RenderBr/AdvancedWarpplates)
 Enhances warp plates with advanced functionalities and customization options, making teleportation around your server even more convenient and exciting.
 
@@ -24,6 +27,12 @@ Prevents unwanted spam messages in your server's chat by effectively controlling
 ### [AntiVPN.dll](https://github.com/Maxthegreat99/AntiVPN-TShock)
 A simple anti-vpn plugin for TShock powered by iphub.info.
 
+### [Bagger](https://github.com/Soof4/Bagger)
+Let's players get bags for the bosses they've missed.
+
+### [BridgeBuilder](https://github.com/Soof4/BridgeBuilder)
+Instant bridge builder.
+
 ### [ChangeName.dll](https://github.com/RenderBr/ChangeName)
 Logs and manages player name changes, aiding in keeping track of player identities.
 
@@ -32,6 +41,9 @@ Allows admins to reset a player's character data, helping to resolve certain gam
 
 ### [Chestroom.dll](https://github.com/RenderBr/Chestroom)
 Generates chest rooms containing all items, making inventory management and item access more convenient.
+
+### [ComfyEconomy](https://github.com/Soof4/ComfyEconomy)
+Economy plugin with shop signs and mines.
 
 ### [Creative Mode.dll](https://github.com/RenderBr/CreativeMode)
 Adds a simple "creative mode" using buffs and Inanzen's Endless plugin.
@@ -50,6 +62,12 @@ Allows admins to define regions on your TShock server where mobs will be auto-ki
 
 ### [Dimensions.dll](https://github.com/RenderBr/Dimensions)
 Allows players to connect to other servers via the Dimensions proxy.
+
+### [DisableRevenge](https://github.com/Soof4/DisableRevenge)
+Disables mobs picking up coins on the networking side.
+
+### [Emojifier](https://github.com/Soof4/Emojifier)
+In-game chat emoji plugin.
 
 ### [EssentialsPlus.dll](https://github.com/RenderBr/EssentialsPlus)
 Adds a combination of things from Essentials and things from MoreAdminCommands made better. All commands run asynchronously. It does not include Sign Commands.
@@ -93,8 +111,14 @@ Announces player logins and logouts to keep the server community informed and en
 ### [Permabuffs V2.dll](https://github.com/Maxthegreat99/PermabuffsV2)
 Allows for buffs that last indefinitely, even when rejoining and gives several utilities/management commands related to them.
 
+### [PlaytimeRewards](https://github.com/Soof4/PlaytimeRewards)
+Gives players rewards based on how much time they've played on the server. 
+
 ### [Plugin Common Lib 4.2.0.dll](https://github.com/Maxthegreat99/PluginCommonLibrary)
 Acts as dependency for several plugins (House Region and Protector for instance)
+
+### [PrimeBombToMissile](https://github.com/Soof4/PrimeBombToMissile)
+Spawns missiles instead of Prime bombs.
 
 ### [PvPChecks.dll](https://github.com/RenderBr/PvPChecks)
 Bans Weapons and disables PvPers from using illegitimate stuff.
@@ -108,8 +132,14 @@ Allows players to protects single blocks and objects from being changed.
 ### [Pinger.dll](https://github.com/Maxthegreat99/Pinger)
 A plugin conceived for Hardcore Challenge minigames that pings on the map players once a number of them are left alive.
 
+### [QoL](https://github.com/Soof4/QoL)
+Adds various Quality of Life features. 
+
 ### [Quotes.dll](https://github.com/RenderBr/Quotes)
 Allows players to read/save quotes.
+
+### [RandomDrops](https://github.com/Soof4/RandomDrops)
+Makes mobs drop random loot.
 
 ### [RankSystem.dll](https://github.com/Average-Org/RankSystem)
 Adds a time based rank progression system.
@@ -120,11 +150,17 @@ Allows admins to trigger special events when players enter a region.
 ### [RegionView.dll](https://github.com/RenderBr/RegionView)
 Allows you to view region borders 
 
+### [Replenisher](https://github.com/Soof4/Replenisher)
+Replenishes world resources.
+
 ### [RodHealer.dll](https://github.com/RenderBr/RodHealer)
 Allows specific players to get healed when using Rod of discord.
 
 ### [ReportManager.dll](https://github.com/Maxthegreat99/ReportManager)
 Introduces easy-to-use report, warn and mute commands for servers.
+
+### [SFactions](https://github.com/Soof4/SFactions)
+Factions plugin with abilities.
 
 ### [Shop.dll](https://github.com/Maxthegreat99/Shop-plugin)
 Allows the selling/buying of items from a global shop with SEconomy.
@@ -149,6 +185,9 @@ Gives staffmembers the ability to chat in group privately, and allows them to sp
 
 ### [TerrariaChatRelay](https://github.com/RenderBr/TCR-TerrariaChatRelay)
 Introduces a bridge between the ingame chat and Discord.
+
+### [TheObserver](https://github.com/Soof4/TheObserver)
+An anti-cheat plugin that tries to detect suspicious item activities.
 
 ### [TimeRanks.dll](https://github.com/RenderBr/TimeRanks)
 Introduces a rank progression system based on user playtime.
