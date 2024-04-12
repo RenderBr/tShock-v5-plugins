@@ -1,7 +1,7 @@
 # tShock-v5-plugins
 Hello, it's me Average!
 
-- Since I have updated SO MANY plugins, the wrong versions of some plugins may be in here by accident! If a plugin does not work: please notify me on this Discord server: https://discord.gg/Mj3SgctWhW
+- Since I have updated SO MANY plugins, the wrong versions of some plugins may be in here by accident! If a plugin does not work please notify me on this Discord server: https://discord.gg/Mj3SgctWhW
 - Please feel free to add pull requests with your own plugins!
 
 **IMPORTANT NOTE:** For those of you who are suspicious, you can view the source of most if not all plugins listed here on this README file! Enjoy and happy TShocking :)
