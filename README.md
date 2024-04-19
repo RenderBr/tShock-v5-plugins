@@ -42,7 +42,7 @@ Allows admins to reset a player's character data, helping to resolve certain gam
 ### [Chestroom.dll](https://github.com/RenderBr/Chestroom)
 Generates chest rooms containing all items, making inventory management and item access more convenient.
 
-### [ComfyEconomy](https://github.com/Soof4/ComfyEconomy)
+### [ComfyEconomy.dll](https://github.com/Soof4/ComfyEconomy)
 Economy plugin with shop signs and mines.
 
 ### [Creative Mode.dll](https://github.com/RenderBr/CreativeMode)
