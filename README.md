@@ -123,6 +123,9 @@ Spawns missiles instead of Prime bombs.
 ### [PvPChecks.dll](https://github.com/RenderBr/PvPChecks)
 Bans Weapons and disables PvPers from using illegitimate stuff.
 
+### [PvPer](https://github.com/Soof4/PvPer)
+Adds a PvP duel system.
+
 ### [PvPToggle.dll](https://github.com/Maxthegreat99/PvPToggle)
 Allows players to toggle PvP (Player versus Player) mode on and off via a command.
 
