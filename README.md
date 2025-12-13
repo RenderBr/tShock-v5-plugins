@@ -192,6 +192,9 @@ Introduces a bridge between the ingame chat and Discord.
 ### [TheObserver.dll](https://github.com/Soof4/TheObserver)
 An anti-cheat plugin that tries to detect suspicious item activities.
 
+### [TSLootChest.dll](https://github.com/matheus-fsc/TSLootChest)
+Each player gets individual loot instances within the same chest, preventing loot scarcity in multiplayer worlds.
+
 ### [TimeRanks.dll](https://github.com/RenderBr/TimeRanks)
 Introduces a rank progression system based on user playtime.
 
